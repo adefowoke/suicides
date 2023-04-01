@@ -19,9 +19,9 @@
   <summary>Datasets</summary>
   The datasets were gotten from:
   <ul>
-    <li> <a href="https://www.healthdata.org/">Gapminder</a> : The data consists of number of suicides per country per year spanning from year 1990 to             year 2019 ,there are 31 columns, 205 rows from 204 countries, downloaded in xlsx format, when loaded into excel the data is in a wide format.
+    <li> <a href="https://www.healthdata.org/">Gapminder</a> : The data consists of number of suicides per country per year spanning from year 1990 to             year 2019 ,there are 31 columns, 205 rows from 204 countries, downloaded in xlsx format, when loaded into excel the data is in a wide format.   
     </li>
-    <p>!(https://github.com/adefowoke/suicides/blob/main/pic4.jpeg)</p>
+    <p><img src= "https://user-images.githubusercontent.com/35836370/229312267-e224e924-d77f-4b51-9885-9ffd9590c2fd.jpg")></p>
     <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a> : in order to work with continents , I            merged the table from this site which had coubtries and continents with the table from gapminder using the excel query editor.
     </li>
   </ul>
