@@ -1,11 +1,17 @@
-# Suicides Around The World
-( This is an exploratory analysis of suicides around the world using Microsoft excel )
 
-<picture>
+  <h1 align="left"> Suicides Around The World</h1>
+  <h5 align="left"> This is an exploratory analysis of suicides around the world using Microsoft excel</h3>
+
+<p align="center">
+  <img src= "https://user-images.githubusercontent.com/35836370/229316201-10b84d68-6dc8-4ae2-b876-163e63e19414.jpg" width="780"/>
+</p>
+
+<!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.istockphoto.com/id/477120416/photo/suicide-word-cloud-with-abstract-background.jpg?s=612x612&w=0&k=20&c=9LsuqnCrjVSShk3Pmkn-U-K2FjI9tTHWyMXoiMLRLeo=" width="1000" height="300"/>
  <source media="(prefers-color-scheme: light)" srcset="https://media.istockphoto.com/id/477120416/photo/suicide-word-cloud-with-abstract-background.jpg?s=612x612&w=0&k=20&c=9LsuqnCrjVSShk3Pmkn-U-K2FjI9tTHWyMXoiMLRLeo=" width="1000" height="300"/>
  <img alt="An image with text of suicide and risk factors" src="https://media.istockphoto.com/id/477120416/photo/suicide-word-cloud-with-abstract-background.jpg?s=612x612&w=0&k=20&c=9LsuqnCrjVSShk3Pmkn-U-K2FjI9tTHWyMXoiMLRLeo=" width="1000" height="300"/>
 </picture>
+-->
 
 <details>
   <summary>Introduction </summary>
@@ -16,12 +22,25 @@
       The good news is that more than 90% of people who attempt suicide and survive never go on to die by suicide.<sup>4</sup>
 </details>
 <details>
+  <summary>Problem Statements </summary>
+  <ol>
+      <li>Which Continent has highest prevalence of suicides</li>
+      <li>Which Country has the highest prevalence of suicides</li>
+      <li>Which year had the highest prevalence of suicides</li>
+      <li>Is there a relationship between suicide rates and a country's GDP</li>
+      <li>Is there a relationship between suicide rates and a country's human developmental index</li>
+      <li>Is there a relationship between suicide rates and a country's human developmental index</li>
+    
+    </li>
+  </ol>
+</details>
+<details>
   <summary>Datasets</summary>
   The datasets were gotten from:
   <ul>
     <li> <a href="https://www.healthdata.org/">Gapminder</a> : The data consists of number of suicides per country per year spanning from year 1990 to             year 2019 ,there are 31 columns, 205 rows from 204 countries, downloaded in xlsx format, when loaded into excel the data is in a wide format.   
     </li>
-    <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg")></p>
+    <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
     <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a> : in order to work with continents , I            merged the table from this site which had coubtries and continents with the table from gapminder using the excel query editor.
     </li>
   </ul>
