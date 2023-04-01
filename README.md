@@ -16,9 +16,16 @@
       The good news is that more than 90% of people who attempt suicide and survive never go on to die by suicide.<sup>4</sup>
 </details>
 <details>
-  <summary>Data sets</summary>
-  The data set was gotten from [gapminder](https://www.healthdata.org/). The data was downloaded in xlsx format, when loaded into excel the data is in a   wide format. There are 31 columns , 205 rows. 
-  The data was gathered from 6 continents, 204 countries spanning from the year 1990 to year 2019.
+  <summary>Datasets</summary>
+  The datasets were gotten from:
+  <ul>
+    <li> 
+      [Gapminder](https://www.healthdata.org/) : The data consists of number of suicides per country from year 1990 to year 2019 ,there are 31                  columns, 205 rows from 204 countries, downloaded in xlsx format, when loaded into excel the data is in a wide format. 
+    </li>
+    <li> 
+      [Countries by Continents](https://statisticstimes.com/geography/countries-by-continents.php) 
+    </li>
+  </ul>
 </details>
 <details>
     <summary>Reference</summary>
