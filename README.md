@@ -22,7 +22,7 @@
       The good news is that more than 90% of people who attempt suicide and survive never go on to die by suicide.<sup>4</sup>
 </details>
 
-________________________________________________________________
+
 <details>
   <summary>Problem Statements </summary>
   <ol>
@@ -36,7 +36,7 @@ ________________________________________________________________
     </li>
   </ol>
 </details>
-_______________________________________________________
+
 
 <details>
   <summary>Datasets</summary>
@@ -48,6 +48,7 @@ _______________________________________________________
     <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a> : in order to work with continents ,I merged the table from this site which had coubtries and continents with the table from gapminder using the excel query editor.
     </li>
   </ul>
+  <p> process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen,Select “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next”,Select “New worksheet” and Click “Finish” </p>
 </details>
 
 
