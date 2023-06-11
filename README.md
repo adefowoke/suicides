@@ -21,6 +21,8 @@
       Suicide and suicide attempts affect the health and well-being of friends, loved ones, co-workers, and the community. When people die by suicide,         their surviving family and friends may experience shock, anger, guilt, symptoms of depression or anxiety, and may even experience thoughts of             suicide themselves.<sup>3</sup>
       The good news is that more than 90% of people who attempt suicide and survive never go on to die by suicide.<sup>4</sup>
 </details>
+
+
 <details>
   <summary>Problem Statements </summary>
   <ol>
@@ -34,6 +36,8 @@
     </li>
   </ol>
 </details>
+
+
 <details>
   <summary>Datasets</summary>
   The datasets were gotten from:
@@ -45,6 +49,8 @@
     </li>
   </ul>
 </details>
+
+
 <details>
     <summary>Reference</summary>
       <ol>
