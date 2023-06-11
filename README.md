@@ -38,19 +38,19 @@
   <summary>Datasets</summary>
   The datasets were gotten from:
   <ul>
-    <li> <a href="https://www.healthdata.org/">Gapminder</a> : The data consists of number of suicides per country per year spanning from year 1990 to             year 2019 ,there are 31 columns, 205 rows from 204 countries, downloaded in xlsx format, when loaded into excel the data is in a wide format.   
+    <li> <a href="https://www.healthdata.org/">Gapminder</a> : The data consists of number of suicides per country per year spanning from year 1990 to year 2019 ,there are 31 columns, 205 rows from 204 countries, downloaded in xlsx format, when loaded into excel the data is in a wide format.   
     </li>
     <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
-    <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a> : in order to work with continents , I            merged the table from this site which had coubtries and continents with the table from gapminder using the excel query editor.
+    <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a> : in order to work with continents ,I merged the table from this site which had coubtries and continents with the table from gapminder using the excel query editor.
     </li>
   </ul>
 </details>
 <details>
     <summary>Reference</summary>
       <ol>
-       <li>Crosby A, Ortega L, Melanson C. [Self-directed violence surveillance: Uniform definitions and recommended data elements, version 1.0 PDF –            1MB](https://www.cdc.gov/suicide/pdf/self-directed-violence-a.pdf)(2011) Atlanta, GA: Centers for Disease Control and Prevention, National Center        for Injury Prevention and Control.
+       <li>Crosby A, Ortega L, Melanson C. [Self-directed violence surveillance: Uniform definitions and recommended data elements, version 1.0 PDF – 1MB](https://www.cdc.gov/suicide/pdf/self-directed-violence-a.pdf)(2011) Atlanta, GA: Centers for Disease Control and Prevention, National Center        for Injury Prevention and Control.
        </li>
-        <li>CDC.CDC WONDER: Underlying cause of death, 1999–2019. Atlanta, GA: US Department of Health and Human Services, CDC; 2020.                                 [https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html]
+        <li>CDC.CDC WONDER: Underlying cause of death, 1999–2019. Atlanta, GA: US Department of Health and Human Services, CDC; 2020.[https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html]
         </li>
         <li>Chapman A, Dixon-Gordon K. (2007) [Emotional antecedents and consequences of deliberate self-harm and suicide attempts]                               (https://onlinelibrary.wiley.com/doi/full/10.1521/suli.2007.37.5.543). Suicide & Life Threatening Behavior; 37(5): 543-552.</li>
         <li>Owens D, Horrocks J, House A. (2002) Fatal and non-fatal repetition of self-harm. Systematic review. Br J Psychiatry. Sep; 181:193-9.</li>
