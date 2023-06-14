@@ -59,6 +59,12 @@
               <li>Remove duplicates</li>
               <li>Check for spelling Errors etc</li>
               </ul>
+         <p  align="middle">
+             <img src="/pic1.jpeg" width="48%" />
+         &nbsp; &nbsp; &nbsp; &nbsp;
+             <img src="/pic2.jpeg" width="48%" /> 
+ <!-- <img src="/pic3.jpeg" width="32%" /> -->
+       </p>
   </details>
   
       <p> process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen,Select “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next”,Select “New worksheet” and Click “Finish” </p>
