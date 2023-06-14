@@ -42,13 +42,26 @@
   <summary>Datasets</summary>
   The datasets were gotten from:
   <ul>
-    <li> <a href="https://www.healthdata.org/">Gapminder</a> : The data consists of number of suicides per country per year spanning from year 1990 to year 2019 ,there are 31 columns, 205 rows from 204 countries, downloaded in xlsx format, when loaded into excel the data is in a wide format.   
+    <li> <a href="https://www.healthdata.org/">Gapminder</a> : The data consists of number of suicides per country per year spanning from year 1990 to year 2019 ,there are 31 columns, 205 rows from 204                 countries, downloaded in xlsx format, when loaded into excel the data is in a wide format.   
     </li>
     <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
-    <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a> : in order to work with continents ,I merged the table from this site which had coubtries and continents with the table from gapminder using the excel query editor.
+    <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a> : in order to work with continents ,I merged the table from this site which had coubtries               and continents with the table from gapminder using the excel query editor.
     </li>
   </ul>
-  <p> process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen,Select “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next”,Select “New worksheet” and Click “Finish” </p>
+  </details>
+  
+  <details>
+      <summary>Data Cleaning And Transformation Process</summary>
+          <p>The data from gapminder was cleaned using the power query editor , which included:</p>
+              <ul>
+              <li>Changing the data type</li>
+              <li>Remove the ending 'k'</li>
+              <li>Remove duplicates</li>
+              <li>Check for spelling Errors etc</li>
+              </ul>
+  </details>
+  
+      <p> process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen,Select “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next”,Select “New worksheet” and Click “Finish” </p>
   <p> to get the data for continent from the website , i clicked o data buton , get data from the web and pasted the link, press ok. it would open the power query editor</p>
 </details>
 
