@@ -60,17 +60,15 @@
                   <li>Remove duplicates</li>
                   <li>Check for spelling errors etc</li>
                   <li>Convert the table from a wide to a long format</li>
-                      <p  align="center">
-                       <img src="/77c88a49-b96b-46f0-aaee-49ea091d8951.jpg" width="55%", height=480, title="wide format" />
-                         &nbsp; &nbsp; &nbsp; &nbsp;
-                       <img src="/pic2.jpeg" width="40%", height=480,title="long format" /> 
-                      </p>
-                 <li> The long table format for the countries, years and values was combines with the table consisting of the countries and continent</li>
-                        <p align="center"><img src="/> </p>
+                      <p align="center">
+                          <img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>
+                      &nbsp; &nbsp; &nbsp; &nbsp;
+                          <img src="./pic2.jpeg", width="40%", height="480",title="long format"/> 
+                     </p>
+                 <li> The long table format for the countries, years, and values was combined with the table consisting of the countries and continent</li>
+                     <p align="center"><img src="./799b660c-88ea-436c-8d41-d343f61a7861.jpg",width="48%", title="combined"/></p>
              </ul>
-                 
- <!-- <img src="/pic3.jpeg" width="32%" /> -->
-       </p>
+        </p>
   </details>
   
       <p> process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen, Select “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next”, Select “New worksheet” and Click “Finish” </p>
