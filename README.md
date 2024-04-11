@@ -71,8 +71,8 @@
         </p>
   </details>
   
-      <p> process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen, Select “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next” " select “New worksheet” and Click “Finish” </p>
-   To get the data for the continent from the website, I clicked the on data button, got data from the web and pasted the link, pressed ok. it would open the power query editor
+  <p> process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen, Select “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next” " select “New worksheet” and Click “Finish” </p>
+   <p>To get the data for the continent from the website, I clicked the on data button, got data from the web and pasted the link, pressed ok. it would open the power query editor</p>
 </details>
 
 
