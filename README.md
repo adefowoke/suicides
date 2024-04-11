@@ -33,7 +33,6 @@
       <li>Is there a relationship between suicide rates and a country's human developmental index</li>
       <li>Is there a relationship between suicide rates and a country's human developmental index</li>
     
-    </li>
   </ol>
 </details>
 
