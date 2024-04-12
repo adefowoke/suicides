@@ -18,7 +18,7 @@
       Suicide is death caused by injuring oneself with the intent to die. A suicide attempt is when someone harms themselves with any intent to end their       life, but they do not die as a result of their actions.<sup>1</sup>
       Suicide affects all ages. In 2020, in the United States, suicide was among the top 9 leading causes of death for people ages 10-64. Suicide was the         second leading cause of death for people ages 10-14 and 25-34.<sup>2</sup>
       Suicide and suicide attempts cause serious emotional, physical, and economic impacts. People who attempt suicide and survive may experience serious       injuries that can have long-term effects on their health. They may also experience depression and other mental health concerns.<sup>3</sup>
-      Suicide and suicide attempts affect the health and well-being of friends, loved ones, co-workers, and the community. When people die by suicide,         their surviving family and friends may experience shock, anger, guilt, symptoms of depression or anxiety, and may even experience thoughts of             suicide themselves.<sup>3</sup>
+      Suicide and suicide attempts affect the health and well-being of friends, loved ones, co-workers, and the community. When people die by suicide,         their surviving family and friends may experience shock, anger, guilt, symptoms of depression or anxiety, and may even experience thoughts of suicide themselves.<sup>3</sup>
       The good news is that more than 90% of people who attempt suicide and survive never go on to die by suicide.<sup>4</sup>
 </details>
 
@@ -47,11 +47,11 @@
     <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
     <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a>: to work with continents, I downloaded data from 
          this site, which includes countries and their corresponding continent, this was done using the power query editor.
-         <p>Open the powrBi desktop, select get data, and from the drop-down options, select web. This opens a Fro web pop-up, insert the URL, leave the default 
-             basic, and press ok. It opens another pop-up Access Web Content, from the drop-down option, choose the one that ends with ".php", and press connect. 
-             This opens the Navigator window, select "Countries or Areas". select Transform. This takes you to the power Query Editor. An overview shows no missing 
-             data. I want to use only the column with country and continent. from the tab select choose columns, it brings down the options, select the columns you 
-             want, and press ok. select close and apply.</p>
+         <p>Open Excel, open a new Excel worksheet, from the ribbon, select data, and select from the web. This opens a From web pop-up, insert the URL, leave the 
+              default basic, and press ok. It opens another pop-up Access Web Content, from the drop-down option, choose the one that ends with ".php", and press 
+              connect. 
+             This opens the Navigator window, select "Countries or Areas". select Transform. This takes you to the power Query Editor. I want to use only the column with country and continent. Drag the continent close to the country for easy selection, select "country", and "continent" while holding down the shift key in Windows, right-click, from the options provided, and select Remove other columns.
+        </p>
     </li>
     <p align="middle"><img src="/pic1.jpeg" width="48%" /></p>
   </ul>
