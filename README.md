@@ -50,7 +50,10 @@
          <p>Open Excel, open a new Excel worksheet, from the ribbon, select data, and select from the web. This opens a From web pop-up, insert the URL, leave the 
               default basic, and press ok. It opens another pop-up Access Web Content, from the drop-down option, choose the one that ends with ".php", and press 
               connect. 
-             This opens the Navigator window, select "Countries or Areas". select Transform. This takes you to the power Query Editor. I want to use only the column with country and continent. Drag the continent close to the country for easy selection, select "country", and "continent" while holding down the shift key in Windows, right-click, from the options provided, and select Remove other columns.
+             This opens the Navigator window, select "Countries or Areas". select Transform. This takes you to the power Query Editor. I want to use only the 
+             column with country and continent. Drag the continent close to the country for easy selection, select "country", and "continent" while holding down 
+             the shift key in Windows, right-click, from the options provided, and select Remove other columns. An overview of the data shows no missing data. 
+             click "close and apply".
         </p>
     </li>
     <p align="middle"><img src="/pic1.jpeg" width="48%" /></p>
