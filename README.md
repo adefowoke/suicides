@@ -45,6 +45,7 @@
     </li>
     <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
     <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a>: to work with continents, I downloaded data from this site, which includes countries and their corresponding continent, this was done using the power query editor.
+         <p>Open the powrBi destop, select get data, from the drop down options, select web. This opens a Fro web pop-up, insert the URL, leave the default basic, press ok. It opens another pop-up Access Web Content, from the drop down option, choose the one that ends with .PHP, press connect. This opens the Navigator window, select "Countries or Areas" . select transform. This takes you to the power Query Editor. An overview shows no missing data. i want to use only the column with country and continent. from the tab select choose columns, it brings down the options, select the columns you want, press ok. select close and apply.</p>
     </li>
     <p align="middle"><img src="/pic1.jpeg" width="48%" /></p>
   </ul>
