@@ -38,14 +38,20 @@
 
 
 <details>
-  <summary>Datasets</summary>
+  <summary>Collection of Datasets</summary>
   The datasets were gotten from:
   <ul>
-    <li> <a href="https://www.healthdata.org/">Gapminder</a>: The data consists of the number of suicides per country per year spanning from the year 1990 to the year 2019, there are 31 columns, 205 rows from 204                 countries, downloaded xlsx format when loaded into excel the data is in a wide format.   
+    <li> <a href="https://www.healthdata.org/">Gapminder</a>: The data consists of the number of suicides per country per year spanning from the year 1990 to the 
+            In 2019, there are 31 columns, and 205 rows from 204 countries, downloaded xlsx format when loaded into Excel the data is in a wide format.   
     </li>
     <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
-    <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a>: to work with continents, I downloaded data from this site, which includes countries and their corresponding continent, this was done using the power query editor.
-         <p>Open the powrBi destop, select get data, from the drop down options, select web. This opens a Fro web pop-up, insert the URL, leave the default basic, press ok. It opens another pop-up Access Web Content, from the drop down option, choose the one that ends with .PHP, press connect. This opens the Navigator window, select "Countries or Areas" . select transform. This takes you to the power Query Editor. An overview shows no missing data. i want to use only the column with country and continent. from the tab select choose columns, it brings down the options, select the columns you want, press ok. select close and apply.</p>
+    <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a>: to work with continents, I downloaded data from 
+         this site, which includes countries and their corresponding continent, this was done using the power query editor.
+         <p>Open the powrBi desktop, select get data, and from the drop-down options, select web. This opens a Fro web pop-up, insert the URL, leave the default 
+             basic, and press ok. It opens another pop-up Access Web Content, from the drop-down option, choose the one that ends with ".php", and press connect. 
+             This opens the Navigator window, select "Countries or Areas". select Transform. This takes you to the power Query Editor. An overview shows no missing 
+             data. I want to use only the column with country and continent. from the tab select choose columns, it brings down the options, select the columns you 
+             want, and press ok. select close and apply.</p>
     </li>
     <p align="middle"><img src="/pic1.jpeg" width="48%" /></p>
   </ul>
@@ -69,10 +75,13 @@
                      <p align="center"><img src="./799b660c-88ea-436c-8d41-d343f61a7861.jpg",width="48%", title="combined"/></p>
              </ul>
         </p>
-  </details>
-  
-  <p> process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen, Select “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next” " select “New worksheet” and Click “Finish” </p>
-   <p>To get the data for the continent from the website, I clicked the on data button, got data from the web and pasted the link, pressed ok. it would open the power query editor</p>
+  <p>process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen, Select 
+           “Multiple Consolidation ranges“ then Click “Next“.Select “I will create the page fields“ then Click “Next“.In Range input select the entire data range 
+           “'clean_data_ori (2)'!$A$1:$AE$205” then click “Next” " select “New worksheet” and Click “Finish” 
+       </p>
+       <p>To get the data for the continent from the website, I clicked the on data button, got data from the web and pasted the link, pressed ok. it would open 
+          the power query editor
+       </p>
 </details>
 
 
