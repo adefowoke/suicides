@@ -64,10 +64,18 @@
       <summary>Data Cleaning And Transformation Process</summary>
           <p>The data from gapminder (suicide data) was cleaned using the Excel power query editor, which included:</p>
               <ul>
+                   <li>Always make a copy of your data before making any changes to it, this acts as a fallback when you need the original data<li>
                   <li>Freeze top row: </li><p> Select the View tab, select Freeze panes, and select Freeze top row</p>
                   <li>Changing the data type</li>
                   <li>Find and replace 'k': </li> <p> An overview of the data shows there are some rows with 'K' to them since there is no avenue to confirm why there is 'k' in the data, I will assume those 
-                      figures are in thousands. Selecting Find & select in the home tab, it brings a pop-up, enter 'k', and press findall. it shows that there are 343 cells affected by this, so manually fixing this would be a waste of time and a high risk of making a mistake is there
+                      figures are in thousands. Selecting Find & select in the home tab, it brings a pop-up, enter 'k', and press findall. it shows that there are 343 cells affected by this, so manually fixing 
+                      this would be a waste of time and a high risk of making a mistake is there.
+                      Select the whole sheet, you can select A1, hold down 'shift + Ctrl', press the 'end' key, and press 'pgDn' key. Select Sort&Filter, this adds a filter icon to the first roll.
+                      Click on the filter icon on 1990, select Number Filters, Custom Filter, this brings out the Custom Autofilter pop-up, select the drop-down and choose 'ends with', enter 'k' in the adjacent 
+                      box, press ok. this shows only 204 of the 343 cells. This is because I filtered using the 1990 column, meaning there are still cells with the 'k' value not displayed. I was unable to get a 
+                      method that could do it at once across all the years.
+                      This is the formula to remove the 'k' and multiply the cell with 'k' by 1000 : =IF(RIGHT(B63,1)="k",LEFT(B63,FIND("k",B63)-1)*1000,B63)
+                  </p>
                   <li>Remove the ending 'k'</li>
                   <li>Remove duplicates</li>
                   <li>Check for spelling errors etc</li>
@@ -94,11 +102,14 @@
 <details>
     <summary>Reference</summary>
       <ol>
-       <li>Crosby A, Ortega L, Melanson C. [Self-directed violence surveillance: Uniform definitions and recommended data elements, version 1.0 PDF – 1MB](https://www.cdc.gov/suicide/pdf/self-directed-violence-a.pdf)(2011) Atlanta, GA: Centers for Disease Control and Prevention, National Center        for Injury Prevention and Control.
+       <li>Crosby A, Ortega L, Melanson C. [Self-directed violence surveillance: Uniform definitions and recommended data elements, version 1.0 PDF – 1MB](https://www.cdc.gov/suicide/pdf/self-directed-violence- 
+           a.pdf)(2011) Atlanta, GA: Centers for Disease Control and Prevention, National Center        for Injury Prevention and Control.
        </li>
-        <li>CDC.CDC WONDER: Underlying cause of death, 1999–2019. Atlanta, GA: US Department of Health and Human Services, CDC; 2020.[https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html]
-        </li>
-        <li>Chapman A, Dixon-Gordon K. (2007) [Emotional antecedents and consequences of deliberate self-harm and suicide attempts]                               (https://onlinelibrary.wiley.com/doi/full/10.1521/suli.2007.37.5.543). Suicide & Life-Threatening Behavior; 37(5): 543-552.</li>
-        <li>Owens D, Horrocks J, House A. (2002) Fatal and non-fatal repetition of self-harm. Systematic review. Br J Psychiatry. Sep; 181:193-9.</li>
+       <li>CDC.CDC WONDER: Underlying cause of death, 1999–2019. Atlanta, GA: US Department of Health and Human Services, CDC; 2020.[https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html]
+       </li>
+       <li>Chapman A, Dixon-Gordon K. (2007) [Emotional antecedents and consequences of deliberate self-harm and suicide attempts]                               
+           (https://onlinelibrary.wiley.com/doi/full/10.1521/suli.2007.37.5.543). Suicide & Life-Threatening Behavior; 37(5): 543-552.
+       </li>
+       <li>Owens D, Horrocks J, House A. (2002) Fatal and non-fatal repetition of self-harm. Systematic review. Br J Psychiatry. Sep; 181:193-9.</li>
      </ol>
 </details>
