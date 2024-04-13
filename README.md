@@ -53,7 +53,7 @@
              This opens the Navigator window, select "Countries or Areas". select Transform. This takes you to the power Query Editor. I want to use only the 
              column with country and continent. Drag the continent close to the country for easy selection, select "country", and "continent" while holding down 
              the shift key in Windows, right-click, from the options provided, and select Remove other columns. An overview of the data shows no missing data. 
-             click "close and apply".
+             click "close and apply". This file can be saved on the local machine to be used whenever needed.
         </p>
     </li>
     <p align="middle"><img src="/pic1.jpeg" width="48%" /></p>
@@ -62,9 +62,12 @@
   
   <details>
       <summary>Data Cleaning And Transformation Process</summary>
-          <p>The data from gapminder was cleaned using the power query editor, which included:</p>
+          <p>The data from gapminder (suicide data) was cleaned using the Excel power query editor, which included:</p>
               <ul>
+                  <li>Freeze top row: </li><p> Select the View tab, select Freeze panes, and select Freeze top row</p>
                   <li>Changing the data type</li>
+                  <li>Find and replace 'k': </li> <p> An overview of the data shows there are some rows with 'K' to them since there is no avenue to confirm why there is 'k' in the data, I will assume those 
+                      figures are in thousands. Selecting Find & select in the home tab, it brings a pop-up, enter 'k', and press findall. it shows that there are 343 cells affected by this, so manually fixing this would be a waste of time and a high risk of making a mistake is there
                   <li>Remove the ending 'k'</li>
                   <li>Remove duplicates</li>
                   <li>Check for spelling errors etc</li>
