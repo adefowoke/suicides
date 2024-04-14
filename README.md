@@ -111,7 +111,8 @@
     <ul>
       <li>Some countries were not added to the suicide data from the source</li>
       <li> Some countries were named differently in both tables, so it came up as N/A, I had to manually cross-check those countries</li>
-      <li>I had to manually add Asia for Taiwan has there was no data for it</li>
+      <li>I had to manually add Asia for Taiwan as there was no data for it</li>
+      <li>No avenue to verify some of the discrepancies found in the dataset</li>
       
    </ul>
 </details>
