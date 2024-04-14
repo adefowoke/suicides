@@ -68,19 +68,24 @@
                   <li>Freeze top row: Select the View tab, select Freeze panes, and select Freeze top row
                   </li>
                   <li>Find and replace 'k':  An overview of the data shows there are some rows with 'K' to them since there is no avenue to confirm why there is 'k' in the data, I will assume those 
-                      figures are in thousands. Selecting Find & select in the home tab, it brings a pop-up, enter 'k', and press findall. it shows that there are 343 cells affected by this, so manually fixing 
+                      figures are in thousands. Selecting Find & select in the home tab, brings a pop-up, enter 'k', and press findall. it shows that there are 343 cells affected by this, so manually fixing 
                       this would be a waste of time and a high risk of making a mistake is there.
-                      Select the whole sheet, you can select A1, hold down 'shift + Ctrl', press the 'end' key, and press 'pgDn' key. Select Sort&Filter, this adds a filter icon to the first roll.
+                      Select the whole sheet, you can select A1, hold down 'shift + Ctrl', press the 'end' key, and press the 'pgDn' key. Select Sort&Filter, this adds a filter icon to the first roll.
                       Click on the filter icon on 1990, select Number Filters, Custom Filter, this brings out the Custom Autofilter pop-up, select the drop-down and choose 'ends with', enter 'k' in the adjacent 
-                      box, press ok. this shows only 204 of the 343 cells. This is because I filtered using the 1990 column, meaning there are still cells with the 'k' value not displayed. I was unable to get a 
-                      method that could do it at once across all the years.
-                      This is the formula to remove the 'k' and multiply the cell with 'k' by 1000 : =IF(RIGHT(B63,1)="k",LEFT(B63,FIND("k",B63)-1)*1000,B63)
+                      box, and press ok. this shows only 204 of the 343 cells. This is because I filtered using the 1990 column, meaning there are still cells with the 'k' value not displayed. I was unable to 
+                      get a method that could do it at once across all the years.
+                      This is the formula to remove the 'k' and multiply the cell with 'k' by 1000: =IF(RIGHT(B63,1)="k", LEFT(B63, FIND("k", B63)-1)*1000, B63)
                   </li>
-                  <li>Changing the data type:
-                     <ul> a. Change the year cells and country column to text</ul>
+                  <li>Changing the data type: <h7>Change the year cells and country column to text</h7>
                   </li>
                   <li>Remove duplicates</li>
                   <li>Check for spelling errors etc</li>
+                  <li>Merge the 2 tables using vlookup function: =VLOOKUP(A2,'Countries_Continent (2)'!A2:B250,2,FALSE) . Before using this formula,
+                    <ul>
+                       <li> Sort your tables A-Z</li>
+                       <li> Ensure the table with the continent has been reformatted as a range and not a table, select the whole table, go to the table design tab, and click on "convert to range"</li>
+                       <li> If the formula is not showing a value, check and make sure the cell is formatted as general and not text</li>
+                       </ul>  
                   <li>Convert the table from a wide to a long format</li>
                       <p align="center">
                           <img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>
@@ -98,6 +103,15 @@
        <p>To get the data for the continent from the website, I clicked the on data button, got data from the web and pasted the link, pressed ok. it would open 
           the power query editor
        </p>
+</details>
+
+
+<details>
+  <summary>Challenges</summary>
+    <ul>
+      <li> Some countries were named differently in both tables, so it came up as N/A, I had to manually cross-check those countries</li>
+      
+   </ul>
 </details>
 
 
