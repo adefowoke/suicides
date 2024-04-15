@@ -91,10 +91,10 @@
                           <img src="./Wide_table_format.png", width="55%", height="480", title="wide format"/>
                           <!--<img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>-->
                       &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src=".Long_table_format.png", width="40%", height="480",title="long format"/> 
+                          <img src="./Long_table_format.png", width="40%", height="480",title="long format"/> 
                      </p>
                  <li> The long table format for the countries, years, and values was combined with the table consisting of the countries and continent</li>
-                     <p align="center"><img src="./799b660c-88ea-436c-8d41-d343f61a7861.jpg",width="48%", title="combined"/></p>
+                    <!-- <p align="center"><img src="./799b660c-88ea-436c-8d41-d343f61a7861.jpg",width="48%", title="combined"/></p> -->
              </ul>
         </p>
   <p>process of converting my cleaned table from wide format to long format, press alt+d+p to ring up the PivotTable and PivotChart Wizard screen, Select 
