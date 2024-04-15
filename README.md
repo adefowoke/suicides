@@ -89,6 +89,7 @@
                   <li>Convert the table from a wide to a long format</li>
                       <p align="center">
                           <img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>
+                          <img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>
                       &nbsp; &nbsp; &nbsp; &nbsp;
                           <img src="./pic2.jpeg", width="40%", height="480",title="long format"/> 
                      </p>
