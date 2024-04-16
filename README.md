@@ -111,7 +111,7 @@
     </p>
 </details>
 <details>
-      <summary>Summary Statistics And Visualization</summary>
+      <summary>Summary Statistics And Visualizations</summary>
 </details>
 
 <details>
