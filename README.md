@@ -112,6 +112,7 @@
 </details>
 <details>
       <summary>Summary Statistics And Visualizations</summary>
+  Summary_table.png
 </details>
 
 <details>
