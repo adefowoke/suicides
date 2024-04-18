@@ -1,4 +1,4 @@
-```html
+
   <h1 align="left"> Suicides Around The World</h1>
   <h5 align="left"> This is an exploratory analysis of suicides around the world using Microsoft Excel </h3>
 
@@ -141,4 +141,4 @@
        <li>Owens D, Horrocks J, House A. (2002) Fatal and non-fatal repetition of self-harm. Systematic review. Br J Psychiatry. Sep; 181:193-9.</li>
      </ol>
 </details>
-```html
+
