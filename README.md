@@ -118,7 +118,13 @@
                           How to create a pivot table, click into any cell within the data range, click the insert tab, and click Pivot Table, this would bring up a blank box with a PivotTable Field beside it. 
                           Features of interest can be picked and dropped into any of the sections. 
                       <ul>
-                        <li>Place Continent in the column section, Year in the row, and Value in the values section, this populates the blank field, showing the suicide count for each year across the continents</li>
+                        <li>Place Continent in the column section, Year in the row, and Value in the values section, this populates the blank field, showing the suicide count for each year across continents</li>
+                           <p align="center">
+                          <img src="./Summary_table.png", width="55%", height="480", title="wide format"/>
+                          <!--<img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>-->
+                      &nbsp; &nbsp; &nbsp; &nbsp;
+                          <!--<img src="./Long_table_format.png", width="20%", height="240",title="long format"/> -->
+                     </p>
                       </ul>
                  </p>  
                 <p align="center">
