@@ -112,6 +112,12 @@
 </details>
 <details>
       <summary>Summary Statistics And Visualizations</summary>
+                <p align="center">
+                          <img src="./Summary_table.png", width="55%", height="480", title="wide format"/>
+                          <!--<img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>-->
+                      &nbsp; &nbsp; &nbsp; &nbsp;
+                          <!--<img src="./Long_table_format.png", width="20%", height="240",title="long format"/> -->
+                     </p>
   Summary_table.png
 </details>
 
