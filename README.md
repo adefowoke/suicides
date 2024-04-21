@@ -121,9 +121,7 @@
                             suicide count for each year across continents</li>
                            <p align="center">
                           <img src="./continent_yr.png", width="55%", height="50", title="continent/yr"/>
-                          <!--<img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>-->
                       &nbsp; &nbsp; &nbsp; &nbsp;
-                          <!--<img src="./Long_table_format.png", width="20%", height="240",title="long format"/> -->
                           </p>
                         <li>To create a summarization table: click on the Data tab, and click on Data Analysis which is at the far end, it brings a pop-up 
                             Analysis Tool, from the options, click on Descriptive and press ok, for the data range, select the whole pivot table created earlier, 
@@ -135,17 +133,20 @@
                             To count the number of countries in each continent, I used the pivot table, placed the continent in the column section, and the 
                             countries in the row and value section, the filter the continent one after the other
                         </li>
-                      </ul>
-                 </p>  
-                <p align="center">
+                         <p align="center">
                           <img src="./Summary_table.png", width="75%", height="900", title="summary table"/>
-                      &nbsp; &nbsp; &nbsp; &nbsp;    
-                     </p>
-                <p align="left">
+                              &nbsp; &nbsp; &nbsp; &nbsp;    
+                       </p>
+                      <li> Create a column chart to display the number of countries in each continent, also a line graph to show the trend of suicides over the 
+                           years for each continent.
+                      </li>
+                     <p align="left">
                           <img src="./Country_count.png", width="40%", height="100", title="country count"/>
-                      &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp;
                           <img src="./Screenshot 2024-04-20 130630.png", width="50%", height="700",title="suicide trend"/> 
-                </p>
+                     </p>
+                      </ul>
+                 </p>    
              </ul>       
 
 </details>
