@@ -79,7 +79,7 @@
                       box, and press ok. this shows only 204 of the 343 cells. This is because I filtered using the 1990 column, meaning there are still cells 
                       with the 'k' value not displayed. I was unable to 
                       get a method that could do it at once across all the years.
-                      This is the formula to remove the 'k' and multiply the cell with 'k' by 1000:=IF(RIGHT(B63,1)="k", LEFT(B63, FIND("k", B63)-1)*1000, B63)
+                      This is the formula to remove the 'k' and multiply the cell with 'k' by 1000:=IF(RIGHT(B63,1)="k", "LEFT(B63, FIND("k", B63)-1)*1000, B63)"
                   </li>
                   <li>Remove duplicates</li>
                   <li>Check for spelling errors etc</li>
@@ -130,7 +130,12 @@
                         <li>To create a summarization table: click on the Data tab, and click on Data Analysis which is at the far end, it brings a pop-up 
                             Analysis Tool, from the options, click on Descriptive and press ok, for the data range, select the whole pivot table created earlier, 
                             check the Label in the first-row box, select summary statistics, and press ok. The mode and count were deleted since it is of no use, 
-                            the country count was added manually.
+                            the country count was added manually. The formula used to calculate the count of unique countries, continents, and years are:
+                            " =COUNTA(UNIQUE(Long_Table_1[Country])) "
+                            " =COUNTA(UNIQUE(Long_Table_1[Continent])) "
+                            " =COUNTA(UNIQUE(Long_Table_1[Year])) "
+                            To count the number of countries in each continent, I used the pivot table, placed the continent in the column section, and the 
+                            countries in the row and value section, the filter the continent one after the other
                         </li>
                       </ul>
                  </p>  
