@@ -135,17 +135,17 @@
                             To count the number of countries in each continent, I used the pivot table, placed the continent in the column section, and the 
                             countries in the row and value section, the filter the continent one after the other
                         </li>
-                        <p align="center">
-                          <img src="./Wide_table_format.png", width="55%", height="480", title="wide format"/>
-                      &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src="./Long_table_format.png", width="20%", height="240",title="long format"/> 
-                     </p>
                       </ul>
                  </p>  
                 <p align="center">
                           <img src="./Summary_table.png", width="55%", height="480", title="wide format"/>
                       &nbsp; &nbsp; &nbsp; &nbsp;    
                      </p>
+                <p align="center">
+                          <img src="./Country_count.png", width="55%", height="480", title="wide format"/>
+                      &nbsp; &nbsp; &nbsp; &nbsp;
+                          <img src="./Long_table_format.png", width="20%", height="240",title="long format"/> 
+                </p>
              </ul>       
 
 </details>
