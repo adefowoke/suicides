@@ -56,7 +56,7 @@
              click "close and apply". This file can be saved on the local machine to be used whenever needed.
         </p>
     </li>
-    <p align="middle"><img src="/pic1.jpeg" width="48%" /></p>
+    <p align="middle"><img src="/pic1.jpeg" width="48%",height="140" /></p>
   </ul>
   </details>
   
@@ -120,7 +120,7 @@
                         <li>Place Continent in the column section, Year in the row, and Value in the values section, this populates the blank field, showing the 
                             suicide count for each year across continents</li>
                            <p align="center">
-                          <img src="./continent_yr.png", width="55%", height="480", title="wide format"/>
+                          <img src="./continent_yr.png", width="55%", height="480", title="continent/yr"/>
                           <!--<img src="./77c88a49-b96b-46f0-aaee-49ea091d8951.jpg", width="55%", height="480", title="wide format"/>-->
                       &nbsp; &nbsp; &nbsp; &nbsp;
                           <!--<img src="./Long_table_format.png", width="20%", height="240",title="long format"/> -->
@@ -138,13 +138,13 @@
                       </ul>
                  </p>  
                 <p align="center">
-                          <img src="./Summary_table.png", width="55%", height="480", title="wide format"/>
+                          <img src="./Summary_table.png", width="55%", height="480", title="summary table"/>
                       &nbsp; &nbsp; &nbsp; &nbsp;    
                      </p>
                 <p align="center">
-                          <img src="./Country_count.png", width="55%", height="480", title="wide format"/>
+                          <img src="./Country_count.png", width="55%", height="240", title="country count"/>
                       &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src="./Long_table_format.png", width="20%", height="240",title="long format"/> 
+                          <img src="./Screenshot 2024-04-20 130630.png", width="50%", height="240",title="suicide trend"/> 
                 </p>
              </ul>       
 
