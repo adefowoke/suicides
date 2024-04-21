@@ -79,7 +79,7 @@
                       box, and press ok. this shows only 204 of the 343 cells. This is because I filtered using the 1990 column, meaning there are still cells 
                       with the 'k' value not displayed. I was unable to 
                       get a method that could do it at once across all the years.
-                      This is the formula to remove the 'k' and multiply the cell with 'k' by 1000: =IF(RIGHT(B63,1)="k", LEFT(B63, FIND("k", B63)-1)*1000, B63)
+                      This is the formula to remove the 'k' and multiply the cell with 'k' by 1000:=IF(RIGHT(B63,1)="k", LEFT(B63, FIND("k", B63)-1)*1000, B63)
                   </li>
                   <li>Remove duplicates</li>
                   <li>Check for spelling errors etc</li>
