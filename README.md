@@ -160,6 +160,12 @@
   <ul>
     <li>The Mode value in the statistical table showed NA, this is because the data is a continuous type, so it would be almost impossible to have a value 
         reoccurring more than once.
+   <li>Asia had a wavy trend with areas of increase and decrease over the years, but still had the highest for each year.</li>
+   <li>Asia had a wavy trend with areas of increase and decrease over the years, but still had the highest for each year.</li>
+  <li>There was a steady increase in the suicide rates for all continents in this group.</li>
+  <li>North America showed a fairly sharp decline from 2016 onwards.</li>
+  <li>South America stopped increasing in 2017 and reached a plateau-like state from that year onwards.</li>
+  <li>Oceania's increase is relatively small as compared to others.</li>
   </ul>
 </details>
 <details>
