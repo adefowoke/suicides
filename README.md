@@ -1,5 +1,5 @@
 
-  <h1 align="left"> Suicides Around The World</h1>
+  <h1 align="left"> Suicides Around The World(On going Project)</h1>
   <h5 align="left"> This is an exploratory analysis of suicides around the world using Microsoft Excel </h3>
 
 <p align="center">
@@ -141,6 +141,11 @@
                            years for each continent.
                       </li>
                      <p align="left">
+                          <img src="./Country_count.png", width="40%", height="100", title="country count"/>
+                            &nbsp; &nbsp; &nbsp; &nbsp;
+                          <img src="./Screenshot 2024-04-20 130630.png", width="50%", height="700",title="suicide trend"/> 
+                     </p>
+                    <p align="left">
                           <img src="./Country_count.png", width="40%", height="100", title="country count"/>
                             &nbsp; &nbsp; &nbsp; &nbsp;
                           <img src="./Screenshot 2024-04-20 130630.png", width="50%", height="700",title="suicide trend"/> 
