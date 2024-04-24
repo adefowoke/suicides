@@ -146,9 +146,9 @@
                           <img src="./Screenshot 2024-04-20 130630.png", width="50%", height="700",title="suicide trend"/> 
                      </p>
                     <p align="left">
-                          <img src="./Country_count.png", width="40%", height="100", title="country count"/>
+                          <img src="./trend_4_countries.png", width="40%", height="100", title="country count"/>
                             &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src="./Screenshot 2024-04-20 130630.png", width="50%", height="700",title="suicide trend"/> 
+                          <img src="./trend_2_countries.png", width="50%", height="700",title="suicide trend"/> 
                      </p>
                       </ul>
                  </p>    
