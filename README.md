@@ -150,12 +150,23 @@
              </ul>       
 
 </details>
+<details>
+  <summary>Insights </summary>
+  <ul>
+    <li>The Mode value in the statistical table showed NA, this is because the data is a continuous type, so it would be almost impossible to have a value 
+        reoccurring more than once.
+  </ul>
+</details>
+<details>
+  <summary>Questions/Critic</summary>
+  kindly send your questions and criticism to my email adefowokea@gmail.com or WhatsApp number +234 815 958 9217, thank you.
+</details>
 
 <details>
   <summary>Challenges</summary>
     <ul>
       <li>Some countries were not added to the suicide data from the source</li>
-      <li> Some countries were named differently in both tables, so it came up as N/A, I had to manually cross-check those countries</li>
+      <li> Some countries were named differently in both tables, so it came up as N/A, I had to cross-check those countries manually</li>
       <li>I had to manually add Asia for Taiwan as there was no data for it</li>
       <li>No avenue to verify some of the discrepancies found in the dataset</li>
       
