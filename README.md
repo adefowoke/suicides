@@ -171,7 +171,7 @@
   <!--<li>There was a steady increase in the suicide rates for all continents in group 2.</li>-->
   <li>North America reached a peak in 2016, then started dropping .</li>
   <li>South America stopped increasing in 2017 and reached a plateau-like state from that year onwards.</li>
-  <li>Oceania's increase is relatively small as compared to others.</li>
+  <li>Oceania had the lowest increase from year to year.</li>
   </ul>
 </details>
 <details>
