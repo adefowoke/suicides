@@ -141,9 +141,9 @@
                            years for each continent.
                       </li>
                      <p align="left">
-                          <img src="./Country_count.png", width="42%", height="400", title="country count"/>
+                          <img src="./Country_count.png", width="40%", height="100", title="country count"/>
                             &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src="./Screenshot 2024-04-20 130630.png", width="50%", height="800",title="suicide trend"/> 
+                          <img src="./Screenshot 2024-04-20 130630.png", width="55%", height="800",title="suicide trend"/> 
                      </p>
                      <li>I divide the continents into 2 groups, the first group had continents whose minimum rate was above 100,000. This included Asia and 
                          Europe. The second group had continents whose maximum rate was below 100,000, this included Africa, North America, South America And 
