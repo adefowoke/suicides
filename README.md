@@ -152,7 +152,7 @@
                     <p align="left">
                           <img src="./trend_4_countries.png", width="43%", height="700", title="country count"/>
                             &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src="./trend_2_countries.png", width="55%", height="400",title="suicide trend"/> 
+                          <img src="./trend_2_countries.png", width="50%", height="400",title="suicide trend"/> 
                      </p>
                       <li>From the 2 line graphs above, the trend for the second group is better visualized and appreciated</li>
                       </ul>
