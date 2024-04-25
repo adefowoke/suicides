@@ -150,9 +150,9 @@
                          Oceania.</li>   
                      <li>I created the 2 groups to visualize the trends better as the scale was too compressed.</li>
                     <p align="left">
-                          <img src="./trend_4_countries.png", width="42%", height="700", title="country count"/>
+                          <img src="./trend_4_countries.png", width="50%", height="700", title="country count"/>
                             &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src="./trend_2_countries.png", width="50%", height="500",title="suicide trend"/> 
+                          <img src="./trend_2_countries.png", width="40%", height="500",title="suicide trend"/> 
                      </p>
                       <li>From the 2 line graphs above, the trend for the second group is better visualized and appreciated</li>
                       </ul>
