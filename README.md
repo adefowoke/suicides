@@ -126,7 +126,7 @@
                         <li>To create a summarization table: click on the Data tab, and click on Data Analysis which is at the far end, it brings a pop-up 
                             Analysis Tool, from the options, click on Descriptive and press ok, for the data range, select the whole pivot table created earlier, 
                             check the Label in the first-row box, select summary statistics, and press ok. The mode and count were deleted since it is of no use, 
-                            the country count was added manually. The formula used to calculate the count of unique countries, continents, and years are:
+                            the country count was added manually. The formula used to calculate the count of unique countries, continents, and years is:
                             " =COUNTA(UNIQUE(Long_Table_1[Country])) "
                             " =COUNTA(UNIQUE(Long_Table_1[Continent])) "
                             " =COUNTA(UNIQUE(Long_Table_1[Year])) "
@@ -143,16 +143,16 @@
                      <p align="left">
                           <img src="./Country_count.png", width="40%", height="100", title="country count"/>
                             &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src="./Screenshot 2024-04-20 130630.png", width="55%", height="800",title="suicide trend"/> 
+                          <img src="./Screenshot 2024-04-20 130630.png", width="55%", height="800",title=" global suicide trend"/> 
                      </p>
                      <li>I divide the continents into 2 groups, the first group had continents whose minimum rate was above 100,000. This included Asia and 
                          Europe. The second group had continents whose maximum rate was below 100,000, this included Africa, North America, South America And 
                          Oceania.</li>   
                      <li>I created the 2 groups to visualize the trends better as the scale was too compressed.</li>
                     <p align="left">
-                          <img src="./trend_4_countries.png", width="43%", height="700", title="country count"/>
+                          <img src="./trend_4_countries.png", width="43%", height="700", title="group 2"/>
                             &nbsp; &nbsp; &nbsp; &nbsp;
-                          <img src="./trend_2_countries.png", width="50%", height="400",title="suicide trend"/> 
+                          <img src="./trend_2_countries.png", width="50%", height="400",title="group 1"/> 
                      </p>
                       <li>From the 2 line graphs above, the trend for the second group is better visualized and appreciated</li>
                       </ul>
@@ -166,9 +166,10 @@
     <li>The Mode value in the statistical table showed NA, this is because the data is a continuous type, so it would be almost impossible to have a value 
         reoccurring more than once.
    <li>Asia had a wavy trend with areas of increase and decrease over the years, but still had the highest for each year.</li>
-   <li>Asia had a wavy trend with areas of increase and decrease over the years, but still had the highest for each year.</li>
-  <li>There was a steady increase in the suicide rates for all continents in this group.</li>
-  <li>North America showed a fairly sharp decline from 2016 onwards.</li>
+   <li>Europe showed a continuous steady decline from 2005 onwards.</li>
+   <li>Africa is the only continent that showed steady increase without any decrease</li>
+  <!--<li>There was a steady increase in the suicide rates for all continents in group 2.</li>-->
+  <li>North America reached a peak in 2016, then started dropping .</li>
   <li>South America stopped increasing in 2017 and reached a plateau-like state from that year onwards.</li>
   <li>Oceania's increase is relatively small as compared to others.</li>
   </ul>
