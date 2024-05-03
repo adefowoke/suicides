@@ -1,5 +1,5 @@
 
-  <h1 align="left"> Suicides Around The World(On going Project)</h1>
+  <h1 align="left"> Suicides Around The World(Ongoing Project)</h1>
   <h5 align="left"> This is an exploratory analysis of suicides around the world using Microsoft Excel </h3>
 
 <p align="center">
