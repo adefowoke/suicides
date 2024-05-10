@@ -167,7 +167,7 @@
         reoccurring more than once.
    <li>Asia had a wavy trend with areas of increase and decrease over the years, but still had the highest for each year.</li>
    <li>Europe showed a continuous steady decline from 2005 onwards.</li>
-   <li>Africa is the only continent that showed steady increase without any decrease</li>
+   <li>Africa is the only continent that showed a steady increase without any decrease</li>
   <!--<li>There was a steady increase in the suicide rates for all continents in group 2.</li>-->
   <li>North America reached a peak in 2016, then started dropping .</li>
   <li>South America stopped increasing in 2017 and reached a plateau-like state from that year onwards.</li>
