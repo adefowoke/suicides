@@ -158,7 +158,7 @@
                        producing different results in terms of appeal, interpretation derivation, ability to modify, and ease of making the graph. I went with the 
                        method to some extent produced a graph from which I could extract some information. The following graphs were produced :
                         <li> AFRICA </li>
-                        <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
+                        <p><img src= "Africa_hist.png"/></p>
                         <li> ASIA </li>
                         <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
                         <li> EUROPE </li>
