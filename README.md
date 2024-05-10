@@ -42,7 +42,7 @@
   The datasets were gotten from:
   <ul>
     <li> <a href="https://www.healthdata.org/">Gapminder</a>: The data consists of the number of suicides per country per year spanning from the year 1990 to the 
-            In 2019, there are 31 columns, and 205 rows from 204 countries, downloaded xlsx format when loaded into Excel the data is in a wide format.   
+            In 2019, there are 31 columns, and 205 rows from 204 countries, downloaded in xlsx format when loaded into Excel the data is in a wide format.   
     </li>
     <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
     <li> <a href="https://statisticstimes.com/geography/countries-by-continents.php">Countries by Continents</a>: to work with continents, I downloaded data from 
@@ -94,8 +94,8 @@
                       faster and easier as you can select the features you want to analyze. This involves using the power query editor:
                     <ul>
                       <li>Select the whole data range, click on the Data tab, and select from table or range</li>
-                      <li>This fires up the power query editor, select the year columns, click on the transform tab</li>
-                      <li>Select unpivot, this puts all the years in a single column , all the values in a single column</li>
+                      <li>This fires up the power query editor, select the year columns, and click on the transform tab</li>
+                      <li>Select unpivot, this puts all the years in a single column, all the values in a single column</li>
                       <li>Name your columns appropriately</li>
                       <li>Click close and apply</li>
                     </ul>
@@ -156,6 +156,9 @@
                      </p>
                       <li>From the 2 line graphs above, the trend for the second group is better visualized and appreciated</li>
                       </ul>
+               <p> I tried creating histograms to visualize the most frequent suicide rate, I found 3 ways of creating histogram in Excel producing different results in terms of appeal, interpretation derivation, ability to modify, and ease of making the graph.
+
+               </p> 
                  </p>    
              </ul>       
 
@@ -176,7 +179,7 @@
 </details>
 <details>
   <summary>Questions/Critic</summary>
-  kindly send your questions and criticism to my email adefowokea@gmail.com or WhatsApp number +234 815 958 9217, thank you.
+  kindly send your questions and/or criticism to my email adefowokea@gmail.com or WhatsApp number +234 815 958 9217, thank you.
 </details>
 
 <details>
