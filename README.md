@@ -157,7 +157,12 @@
                       <li> I tried creating histograms to visualize the most frequent suicide rate, I found 3 ways of creating histograms in Excel with each 
                        producing different results in terms of appeal, interpretation derivation, ability to modify, and ease of making the graph. I went with the 
                        method to some extent produced a graph from which I could extract some information. The following graphs were produced :
-                        <li>  </li>
+                        <li> AFRICA </li>
+                        <li> ASIA </li>
+                        <li> EUROPE </li>
+                        <li> NORTH AMERICA </li>
+                        <li> SOUTH AMERICA </li>
+                        <li> OCEANIA </li>
                       </li>
                       </ul>
                      
