@@ -154,13 +154,13 @@
                           <img src="./trend_2_countries.png", width="50%", height="400",title="group 1"/> 
                      </p>
                       <li>From the 2 line graphs above, the trend for the second group is better visualized and appreciated</li>
+                      <li> I tried creating histograms to visualize the most frequent suicide rate, I found 3 ways of creating histograms in Excel with each 
+                       producing different results in terms of appeal, interpretation derivation, ability to modify, and ease of making the graph. I went with the 
+                       method to some extent produced a graph from which I could extract some information. The following graphs were produced :
+                        <li>  </li>
+                      </li>
                       </ul>
-               <p> I tried creating histograms to visualize the most frequent suicide rate, I found 3 ways of creating histograms in Excel with each producing 
-                 different results in terms of appeal, interpretation derivation, ability to modify, and ease of making the graph. I went with the method to 
-                 some extent produced a graph from which I could extract some information. The method I went with involves the following steps:
-                 <li>
-                 </li>
-               </p> 
+                     
                  </p>    
              </ul>       
 
