@@ -70,11 +70,11 @@
                   <li>Find and replace 'k':  An overview of the data shows there are some rows with 'K' to them since there is no avenue to confirm why there is 
                       'k' in the data, I will assume those 
                       figures are in thousands. Selecting Find & select in the home tab, brings a pop-up, enter 'k', and press findall. it shows that there are 
-                      343 cells affected by this, so manually fixing 
+                      343 cells were affected by this, so manually fixing 
                       this would be a waste of time and a high risk of making a mistake is there.
                       Select the whole sheet, you can select A1, hold down 'shift + Ctrl', press the 'end' key, and press the 'pgDn' key. Select Sort&Filter, this 
                       adds a filter icon to the first roll.
-                      Click on the filter icon on 1990, select Number Filters, Custom Filter, this brings out the Custom Autofilter pop-up, select the drop-down 
+                      Click on the filter icon on 1990, and select Number Filters, Custom Filter, this brings out the Custom Autofilter pop-up, select the drop-down 
                       and choose 'ends with', enter 'k' in the adjacent 
                       box, and press ok. this shows only 204 of the 343 cells. This is because I filtered using the 1990 column, meaning there are still cells 
                       with the 'k' value not displayed. I was unable to 
