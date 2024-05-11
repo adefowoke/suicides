@@ -188,6 +188,9 @@
   <li>North America reached a peak in 2016, then started dropping .</li>
   <li>South America stopped increasing in 2017 and reached a plateau-like state from that year onwards.</li>
   <li>Oceania had the lowest increase from year to year.</li>
+  <li>Interpretation of the histogram in conjuction with the summary statistical table
+![image](https://github.com/adefowoke/suicides/assets/35836370/7590ca86-c731-438d-8b37-0f083f66a1e7)
+</li>
   </ul>
 </details>
 <details>
