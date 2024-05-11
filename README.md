@@ -181,15 +181,26 @@
   <ul>
     <li>The Mode value in the statistical table showed NA, this is because the data is a continuous type, so it would be almost impossible to have a value 
         reoccurring more than once.
-   <li>Asia had a wavy trend with areas of increase and decrease over the years, but still had the highest for each year.</li>
+   <li>Asia had a wavy trend with increased and decreased areas over the years but still had the highest for each year.</li>
    <li>Europe showed a continuous steady decline from 2005 onwards.</li>
    <li>Africa is the only continent that showed a steady increase without any decrease</li>
   <!--<li>There was a steady increase in the suicide rates for all continents in group 2.</li>-->
   <li>North America reached a peak in 2016, then started dropping .</li>
   <li>South America stopped increasing in 2017 and reached a plateau-like state from that year onwards.</li>
   <li>Oceania had the lowest increase from year to year.</li>
-  <li>Interpretation of the histogram in conjuction with the summary statistical table
-![image](https://github.com/adefowoke/suicides/assets/35836370/7590ca86-c731-438d-8b37-0f083f66a1e7)
+  <li>Interpretation of the histogram in conjunction with the summary statistical table:
+    <p><li>Skewness:
+           From the table Africa's skewness value is -0.27, Asia's is  -0.45, Europe's is -0.08, North America's is +0.48, South America's is -0.48, Oceania's is 
+           +0.26, the " + " sign indicates that the distribution is positively skewed tail towards the right) while the " - " sign indicates that the distribution 
+           is negatively skewed ( tail towards the left) which is corroborated by the histogram. The level of symmetry of the distribution is emphasized by the 
+           value. A value within the range of -0.5, 0.5 means that the distribution ( shape of the histogram) is approximately symmetrical and tends 
+           towards the Bell or Gaussian curves. Looking at the histogram for all the continents except Europe, one might tend to doubt the authenticity, but 
+           from the understanding that in a symmetric distribution, there are equal shares of value on both sides with the Mean = Median = Mode. The Mean value 
+           Oceania for instance is at the frequency of 4, which is the 4th bar counting from the right, when you add up the frequency bars it equals 15, which 
+           is half of 30 ( the total number of occurrences), apply this logic to others.  
+         </li>
+    </p>
+  </li>
 </li>
   </ul>
 </details>
