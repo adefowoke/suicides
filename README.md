@@ -162,7 +162,7 @@
                         <li> ASIA </li>
                         <p><img src= "Asia_hist.png"/></p>
                         <li> EUROPE </li>
-                        <p><img src= "https://user-images.githubusercontent.com/35836370/229313129-88edf0d8-dd0a-44c8-aa57-91d20be2f80f.jpeg"/></p>
+                        <p><img src= "Europe_hist.png"/></p>
                         <li> NORTH AMERICA </li>
                         <p><img src= "N.America_hist.png"/></p>
                         <li> SOUTH AMERICA </li>
